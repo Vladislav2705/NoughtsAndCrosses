@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Владислав\source\repos\NoughtsAndCrosses\NoughtsAndCrosses\main.c(167,15): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  NoughtsAndCrosses.vcxproj -> C:\Users\Владислав\source\repos\NoughtsAndCrosses\Debug\NoughtsAndCrosses.exe
